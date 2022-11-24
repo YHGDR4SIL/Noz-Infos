@@ -1,0 +1,33 @@
+html{
+    user-select: none;
+    margin: 0;
+    background-color: #A6A5A4;
+    overflow-x: hidden;
+}
+body{
+    background-color: #A6A5A4;
+}
+#main_title_div{
+    margin-bottom: 5%;
+}
+#main_title{
+    margin: 0;
+    background-color: #A6A5A4;
+    font-size: 100px;
+    color: #ffff;
+}
+#menu{
+    height: 70px;
+    z-index: 7;
+}
+#menu h2{
+    border-radius: 5px 5px 5px 5px;
+}
+#menu h2:hover{
+    background-color: #ffff;
+    color: black;
+}
+#main_elements div{
+    background-color: #ffff;
+    border-radius: 5px 5px 5px 5px;
+}
